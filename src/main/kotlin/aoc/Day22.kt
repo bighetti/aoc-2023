@@ -5,7 +5,7 @@ import aoc.data.Brick22
 /**
  * This puzzle is another coordinate intersection problem, with three dimensions.
  *
- * All bricks are size 1x1x1 or greater, so they represent cubes rather points on a grid.
+ * All bricks are size 1x1x1 or greater, so they represent cubes rather than points on a grid.
  *
  * The bricks can continue to fall (decrease Z by 1) as long as there is no brick occupying part of that space already.
  */

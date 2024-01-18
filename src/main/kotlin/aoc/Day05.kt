@@ -1,7 +1,7 @@
 package aoc
 
 /**
- * This puzzle has to find a way to avoid simulating every possible outcome, since it would take forever.
+ * This puzzle has to find a way to avoid simulating every possible outcome, since it would take a very long time.
  * The number ranges are passed through each step instead.
  *
  * The input begins with the seed numbers:
